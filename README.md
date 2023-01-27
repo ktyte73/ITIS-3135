@@ -1,2 +1,2 @@
-# itis3135
-Classwork related to ITIS-3135 at UNCC
+# ITIS-3135
+Web Application Design & Development Class @ UNCC
